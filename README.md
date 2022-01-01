@@ -41,3 +41,6 @@ For this dataset, Kaggle provide a data dictionary which contains information ab
 With all of this being known, let's get started! 
 
 First, we'll import the dataset and start exploring. Since we know the evaluation metric we're trying to minimise, our first goal will be building a baseline model and seeing how it stacks up against the competition.
+
+
+* Kindly unzip data files before using it.
